@@ -26,10 +26,3 @@ import java util.Scanner;
         System.out.println("The total score is " + overall);
     }
   }
-      
-      
-      
-                       
-      
-      
-      
