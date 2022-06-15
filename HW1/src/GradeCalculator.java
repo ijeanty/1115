@@ -8,16 +8,27 @@ import java util.Scanner;
       double homework = input.nextDouble(); //reads the user input in whatever score it receives
       
       System.out.print("Enter CodeLab score: "); //user input for CodeLab grade
-      double homework = input.nextDouble(); //reads the user input in whatever score it receives
+      double codelab = input.nextDouble(); //reads the user input in whatever score it receives
       
       System.out.print("Enter MidTerm 1 score: "); //user input for MidTerm 1 grade
-      double homework = input.nextDouble(); //reads the user input in whatever score it receives
+      double midtermOne = input.nextDouble(); //reads the user input in whatever score it receives
       
       System.out.print("Enter MidTerm 2 score: "); //user input for MidTerm 2 grade
-      double homework = input.nextDouble(); //reads the user input in whatever score it receives
+      double midtermTwo = input.nextDouble(); //reads the user input in whatever score it receives
       
-      System.out.print("Enter MidTerm 3 score: "); //user input for MidTerm 3 grade
-      double homework = input.nextDouble(); //reads the user input in whatever score it receives
+      System.out.print("Enter FINAL score: "); //user input for Final exam grade
+      double finalExam = input.nextDouble(); //reads the user input in whatever score it receives
+      
+      //calculation of inputs
+      double overall = homework + codelab + midtermOne + midtermTwo + finalExam
+        
+      //output calculation
+        System.out.println("The total score is " + overall);
+    }
+  }
+      
+      
+      
                        
       
       
