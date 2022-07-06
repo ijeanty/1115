@@ -1,6 +1,7 @@
 /* 
  * First things first, I am too accustomed to the IDE format! So, I used Visual Studio Code, copied the code, and then committed my changes via the terminal.
-Program 1
+
+* Program 1
 The way I planned out this program was to first, construct the methods. I had to write the static methods. I had first start with the factorial method, sum method, then the Fibonacci sequence method. As for all the methods, I had to make sure that it returns the right value in terms of the parameter, which was ‘int’. While making the sum and factorial method (not taking a long time), the Fibonacci method had a little bit more time than expected on it. Figuring out whether to use the iteration or recursion method. And I basically chose the recursion method. After that in my main method, I inputted the scanner and print stream class to read and print to file/output. Since I am reading in files and troubleshooting the program while planning it out, I implemented a try, catch, and finally key word so I can further find an error in the program. Through a while statement, I scanned each number in the file as an int, invoked the methods corresponding to their individual print f statement. Then, what had me troubled was ‘how’ to display the previous Fibonacci numbers. So, I played around the for loops at the end and figured it out. Finally, I then closed the files and ended it with a catch statement saying if it had an error retrieving the text file
 
 Program 2
