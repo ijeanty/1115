@@ -1,0 +1,60 @@
+65886c492bf14d5de1d03c9116/redhat.java/jdt_ws/1115-1_4bf912e2/bin Array                                                               
+╭─     ~/1115-1 on    main ?1                                                                                at   09:10:33 PM ─╮
+╰─❯  cd /home/ijeanty/1115-1 ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java -cp /home/ijeanty/.vscode-server/data/User/workspaceStorage/18bcfb65886c492bf14d5de1d03c9116/redhat.java/jdt_ws/1115-1_4bf912e2/bin Array 
+first 5
+second 6
+third 5
+fourth 6
+sixth 5
+seventh 7
+eighth 6
+ninth 5
+tenth 5
+
+
+16:33:09
+16:24:49
+17:06:29
+
+
+Rows in 2D array = 10
+Columns in 2D array = 20
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+╭─     ~/1115-1 on    main ?1                                                                                at   09:10:34 PM ─╮
+╰─❯ git log --since='2 weeks ago' --max-count=3                                                                                    ─╯
+commit 61c144109e3b5487ebc3b9a0264457346a8caeca (HEAD -> main, origin/main, origin/HEAD)
+Author: Isaac <106935763+ijeanty@users.noreply.github.com>
+Date:   Wed Jul 6 10:37:30 2022 -0400
+
+    Update README.md
+
+commit 7d5602c600826ab579f8d7056326229ab1dc1d4a
+Author: Isaac <106935763+ijeanty@users.noreply.github.com>
+Date:   Wed Jul 6 10:35:14 2022 -0400
+
+    Update README.md
+
+commit 709540bbd34fc5dcb21b3f163dd31c1172ee4104
+Author: Isaac <106935763+ijeanty@users.noreply.github.com>
+Date:   Wed Jul 6 10:34:48 2022 -0400
+
+    Update README.md
+
+zsh: suspended  git log --since='2 weeks ago' --max-count=3
+
+╭─     ~/1115-1 on    main ?1                                                          ✘ TSTP took   22s   at   09:11:29 PM ─╮
+╰─❯ git log --oneline --decorate --color --max-count=10 --since='2 weeks ago                                                       ─╯
+∙ git log --oneline --decorate --color --max-count=10 --since='2 weeks ago'
+∙ git log --oneline --decorate --color --max-count=10 --since='2 weeks ago'
+∙ ..
+∙ 

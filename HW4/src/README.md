@@ -1,0 +1,2 @@
+##
+For the pass 3 homework's, I have been strugling with the terminal environment. Howeverk, after the comment I wrote on the previous google form, I got more comfortable with the visual code envoirnment than the windows terminal session. I was able to go into the the wsl: ubuntu remote session and access my github repository. Then, I could also interact and access the my zsh/linus wsl terminal below. This may be my workflow for the remainder of the semester, hopefully.
