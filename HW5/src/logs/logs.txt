@@ -31,3 +31,36 @@ Hour     Distance Traveled
 -------------------------
 1        45
 2        90
+
+
+╭─     ~/1115-1 on    main ?8                                                                           at   08:28:55 PM ─╮
+╰─❯ git log --stat --since='2 weeks ago' --max-count=3                                                                        ─╯
+
+commit f196e60dac7d85ae9918f9cdfc5fe754a05d149e (HEAD -> main, origin/main, origin/HEAD)
+Author: ijeanty <curedview@gmail.com>
+Date:   Tue Jul 19 22:35:49 2022 -0400
+
+    Homework 5 folder (txt files & .java file)
+
+ .vscode/settings.json                           |  6 ++++++
+ Bus.txt                                         |  4 ++++
+ HW5/src/Bus.txt                                 |  4 ++++
+ HW5/src/Moped.txt                               |  5 +++++
+ HW5/src/Scooter.txt                             |  4 ++++
+ HW5/src/Train.txt                               |  6 ++++++
+ HW5/src/Truck.txt                               |  8 ++++++++
+ HW5/src/calculatdistance/CalculateDistance.java | 64 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ HW5/src/vehicle_info.txt                        |  6 ++++++
+ Moped.txt                                       |  5 +++++
+
+╭─     ~/1115-1 on    main                                                                   took   6s at   10:37:35 PM ─╮
+╰─❯ git log --oneline --decorate --color --max-count=10 --since='2 weeks ago'                                                 ─╯
+f196e60 (HEAD -> main, origin/main, origin/HEAD) Homework 5 folder (txt files & .java file)
+348f5f3 Homework 5
+92957af Workflow illustration for Homework #4
+c926a11 Java Program - HW4
+bf965ee From VS Code Environment
+61c1441 Update README.md
+7d5602c Update README.md
+709540b Update README.md
+564db6e Added from terminal
