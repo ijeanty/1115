@@ -1,0 +1,6 @@
+Train,60,4
+Scooter,30,2
+Moped,25,3
+Truck,50,6
+Cycle,2,0
+Bus,45,2
