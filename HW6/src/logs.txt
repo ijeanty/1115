@@ -1,0 +1,53 @@
+╭─     ~/1115-1 on    main                                                                              at   10:40:30 PM ─╮
+╰─❯  /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java -cp /home/ijeanty/.vscode-server/data/User/workspaceStorage/18bcfb65886c492bf14d5de1d03c9116/redhat.java/jdt_ws/1115-1_4bf912e2/bin Main 
+Enter a month: (1-12): 10
+Enter a year: 2003
+October 2003 has 31 days
+
+╭─     ~/1115-1 on    main                                                               took   2m 36s at   10:43:07 PM ─╮
+╰─❯ git log --stat --since='2 weeks ago' --max-count=3                                                                        ─╯
+commit 85823ac35136198de5d1fbeaf4a6f41732d39347 (HEAD -> main, origin/main, origin/HEAD)
+Author: ijeanty <curedview@gmail.com>
+Date:   Tue Jul 26 22:39:12 2022 -0400
+
+    hw6 new files
+
+ .vscode/settings.json  |   3 ++-
+ HW6/src/Main.java      |  32 ++++++++++++++++++++++++
+ HW6/src/Month.java     | 130 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ HW6/src/MonthDays.java |  37 ++++++++++++++++++++++++++++
+ HW6/src/logs.txt       |   0
+ 5 files changed, 201 insertions(+), 1 deletion(-)
+
+commit 1eb16c9fa8c095c4c9671771718769ec5ade787e
+Author: ijeanty <curedview@gmail.com>
+Date:   Tue Jul 26 22:38:39 2022 -0400
+
+    Homework 6 from VS Code
+
+ HW6/src/README.md | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit 32964bce369b6841f4f63d5d1c817cf34b89e032
+Author: ijeanty <curedview@gmail.com>
+Date:   Tue Jul 19 22:39:08 2022 -0400
+
+    logs updated
+
+ HW5/src/logs/logs.txt | 35 ++++++++++++++++++++++++++++++++++-
+ 1 file changed, 34 insertions(+), 1 deletion(-)
+
+╭─     ~/1115-1 on    main                                                                  took   23s at   10:44:06 PM ─╮
+╰─❯ git log --oneline --decorate --color --max-count=10 --since='2 weeks ago'                                                 ─╯
+
+85823ac (HEAD -> main, origin/main, origin/HEAD) hw6 new files
+1eb16c9 Homework 6 from VS Code
+32964bc logs updated
+f196e60 Homework 5 folder (txt files & .java file)
+348f5f3 Homework 5
+92957af Workflow illustration for Homework #4
+c926a11 Java Program - HW4
+bf965ee From VS Code Environment
+
+╭─     ~/1115-1 on    main                                                                              at   10:44:08 PM ─╮
+╰─❯     
