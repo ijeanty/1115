@@ -1,0 +1,39 @@
+╭─     ~/1115-1 on    main                                                                                             at   08:44:08 AM ─╮
+╰─❯ git log --stat --since='2 weeks ago' --max-count=3                                                                                       ─╯
+commit 535d24a2881f519e02068cd3a725efb9f75c2239 (HEAD -> main, origin/main, origin/HEAD)
+Author: ijeanty <curedview@gmail.com>
+Date:   Wed Aug 3 08:42:16 2022 -0400
+
+    Edits
+
+ .vscode/settings.json                                 |   4 +-
+ Examples/src/NeighborhoodSales/NeighborhoodSales.java | 117 +++++++++++++++++++++++++++++++++++++++++++++
+ HW6/src/Main.java                                     | 212 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----------
+ HW6/src/Month.java                                    | 130 --------------------------------------------------
+ HW6/src/MonthDays.java                                |  37 ---------------
+ HW6/src/README.md                                     |   2 -
+ HW7/src/README.md                                     |   0
+ HW7/src/car/CarCopy.java                              | 165 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ HW7/src/logs.txt                                      |   0
+ input.txt                                             |   1 +
+
+╭─     ~/1115-1 on    main                                                                                 took   49s at   08:44:59 AM ─╮
+╰─❯ git log --oneline --decorate --color --max-count=10 --since='2 weeks ago'                                                                ─╯
+535d24a (HEAD -> main, origin/main, origin/HEAD) Edits
+487e683 logs edit
+85823ac hw6 new files
+1eb16c9 Homework 6 from VS Code
+
+╭─     ~/1115-1 on    main                                                                                             at   08:45:01 AM ─╮
+╰─❯ git log --stat --since='2 weeks ago' --max-count=3                                                                                       ─╯
+commit 535d24a2881f519e02068cd3a725efb9f75c2239 (HEAD -> main, origin/main, origin/HEAD)
+Author: ijeanty <curedview@gmail.com>
+Date:   Wed Aug 3 08:42:16 2022 -0400
+
+    Edits
+
+ .vscode/settings.json                                 |   4 +-
+ Examples/src/NeighborhoodSales/NeighborhoodSales.java | 117 +++++++++++++++++++++++++++++++++++++++++++++
+
+╭─     ~/1115-1 on    main                                                                                 took   26s at   08:45:42 AM ─╮
+╰─❯         
