@@ -1,5 +1,3 @@
-##
-
 Month Class: The Java program in question implements the Month class, which has a monthNumber attribute that contains the month's numeric value.
 Three constructors in the Month class can be used to set the month numbers. In the event that the supplied month number or month name is incorrect, the constructors will also issue a unique InvalidMonthException.
 
