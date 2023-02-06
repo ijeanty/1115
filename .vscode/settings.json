@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "HW8",
         "HW7/src",
         "HW6/src",
         "HW5/src",
         "HW4/src",
         "Examples/src",
-        "HW8"
+        "HW1-/src"
     ]
 }
